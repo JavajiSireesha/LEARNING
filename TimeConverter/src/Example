@@ -1,0 +1,3 @@
+In this example, the TimeConverter class demonstrates method overloading to convert time units.
+ Different variations of the convertToMinutes and convertToSeconds methods are provided to handle 
+ different parameter combinations (hours, minutes, seconds) and types (integers).
