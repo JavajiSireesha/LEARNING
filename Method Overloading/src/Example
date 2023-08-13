@@ -1,0 +1,7 @@
+In this example, the Calculator class demonstrates method overloading
+ by providing different versions of the add method with varying parameter lists (integers and doubles) 
+and a separate concatenate method for string concatenation.
+
+Remember that method overloading is not limited to just the number or type of parameters;
+ it considers the entire parameter list.
+ The method signatures must differ in some way, such as the number, types, or order of parameters.
